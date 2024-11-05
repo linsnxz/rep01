@@ -1,3 +1,9 @@
+ body{
+   color: black
+   background:black
+   font-family: "Anton SC", serif;
+
+ }
  .chamada{
     background-color: rgb(3, 98, 153);
     margin-top: 80px;
