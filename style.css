@@ -1,13 +1,13 @@
  body{
-   color: black
-   background:black
+   color: black;
+   background-color: black;
    font-family: "Anton SC", serif;
 
  }
  .chamada{
     background-color: rgb(3, 98, 153);
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 80 px;
+    margin-bottom: 80 px;
     display: flex;
     justify-content: center;
  }
